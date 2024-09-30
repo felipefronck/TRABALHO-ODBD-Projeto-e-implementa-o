@@ -1,4 +1,4 @@
-insert into acorde (nome_acorde) values(
+INSERT INTO acorde (nome_acorde) VALUES
     ('Especiado Quente'),
     ('Baunilha'),
     ('Especiado Fresco'),
@@ -33,5 +33,4 @@ insert into acorde (nome_acorde) values(
     ('Cacau'),
     ('Tuberosa'),
     ('Animálico'),
-    ('Terroso')
-);
+    ('Terroso');
